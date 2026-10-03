@@ -1,0 +1,28 @@
+# Ambiente virtual
+venv/
+
+# Cache Python
+__pycache__/
+*.pyc
+
+# Variáveis de ambiente
+.env
+
+# Data
+data/*
+
+# VSCode
+.vscode/
+
+# JetBrains
+.idea/
+
+# Logs
+*.log
+logs/*
+
+# Arquivos temporários
+*.tmp
+
+#testes
+test/
